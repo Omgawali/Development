@@ -10,6 +10,7 @@ Welcome to the Marvellous Infosystem Code Collection repository! This repository
 2. [C Programs](#c-programs)
 3. [C++ Programs](#c++-programs)
 4. [Java Programs](#java-programs)
+5. 5. [Assignments](#assignments)
 
 ## Introduction
 
@@ -50,6 +51,11 @@ Here, you can explore Java programs related to:
 - Multithreading 
 
 Each Java program is available in its own file and includes comments to facilitate understanding.
+
+## Assignments
+
+This section includes programming assignments provided to students at Marvellous Infosystem. The assignments cover various difficulty levels and encompass different aspects of programming and problem-solving. Each assignment is placed in its own directory, and within the directory, you'll find the problem statement, input/output examples, and any additional instructions.
+
 
 ## Contributing
 
