@@ -2,7 +2,7 @@
 
 # Marvellous Infosystem Code Collection
 
-Welcome to the Marvellous Infosystem Code Collection repository! This repository contains a collection of C, C++, and Java programs solved by students and instructors at Marvellous Infosystem. Each program is well-documented and demonstrates various programming concepts and problem-solving techniques.
+Welcome to the Marvellous Infosystem Code Collection repository! This repository contains a collection of C, C++, and Java programs solved by students and instructor i.e MR.PIYUSH KHAIRNAR. Each program is well-documented and demonstrates various programming concepts and problem-solving techniques.
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ Welcome to the Marvellous Infosystem Code Collection repository! This repository
 2. [C Programs](#c-programs)
 3. [C++ Programs](#c++-programs)
 4. [Java Programs](#java-programs)
-5. 5. [Assignments](#assignments)
+5.  [Assignments](#assignments)
 
 ## Introduction
 
